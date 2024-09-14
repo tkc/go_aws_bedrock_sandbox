@@ -1,4 +1,4 @@
-module go_anthropic
+module tkc/go_aws_bedrock_sandbox
 
 go 1.22.2
 
